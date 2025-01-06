@@ -1,5 +1,5 @@
 # entornovirtual-python
-# steps
+
 
 # game- comandos para el juego
 ```python
@@ -13,11 +13,11 @@ comando donde se encuentra instalado: which python3
 which pip3
 
 # Instalar app
-´´´
+```python
 git clone
 cd app
 python3 -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
-´´´
+```
